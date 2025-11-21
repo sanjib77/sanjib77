@@ -1,18 +1,17 @@
 <div align="center">
   
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Sanjib77&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%26%20AI%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sanjib Chakraborty&fontSize=80&fontAlignY=35" width="100%"/>
 
   <!-- Typing Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Learning+AI+Engineering;Building+Agentic+Systems;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;AI+Engineer;Backend+Developer;Active+Learner" alt="Typing SVG" />
   </a>
 
-  <!-- Socials (Replace # with your actual links) -->
+  <!-- Socials -->
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sanjib7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:sanjibc197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
 </div>
@@ -33,15 +32,12 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h2>🛠 Tech Stack</h2>
-      
-      <!-- Core Icons -->
-      <p>
+      <p align="center">
         <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,django,docker,aws,git,vscode,matlab" />
       </p>
-
-      <!-- Additional Badges for tools not in skillicons or for emphasis -->
-      <p>
-        <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-Protocol-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
