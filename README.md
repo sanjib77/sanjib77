@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sanjib Chakraborty&fontSize=80&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sanjib%20Chakraborty&fontSize=80&animation=fadeIn" width="100%"/>
 
   <!-- Typing Intro -->
   <a href="https://git.io/typing-svg">
@@ -46,16 +46,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjib77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib77&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjib77&theme=tokyonight&hide_border=true" height="160" />
-</div>
 
 <br/>
 
